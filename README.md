@@ -18,8 +18,8 @@
   
 ```js
 const user = {
-  name: "Rak Laptudirm",
-  age: 15,
+  name: "Uzair Ali",
+  age: 25,
   pronouns: [ "he", "him" ],
   theme: [ "dark", "monokai" ],
   
@@ -29,12 +29,12 @@ const user = {
   variables: "camelCase",
   trailing_comma: true,
   
-  hero: "Daniel Shiffman",
+  hero: "Steve Jobs",
   
-  hobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
-  knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
-  projects: [ "Krypt", "MKode", "3d-Engine", "Precise.js", ],  
-  languages: [ "Ecmascript", "Processing", "C++", "Java", ],
+  hobbies: [ "Programming", "Gaming", "Guitaring", "Reading", "Gaining Knowledge", ],
+  knowledge: [ "Black-Holes", "Algorithms", "Ecmascript", "Numbers", "Economics", ],
+  projects: [ "newsweek", "perma-tnw-responsive", "new-york-clone", "ruby-exercises", ],  
+  languages: [ "Ecmascript", "Ruby", "HTML", "CSS", ],
   editors: [ "Sublime Text", "VS Code", ],
   
   newLanguage: function () {
@@ -42,8 +42,8 @@ const user = {
   },
   
   hereIsYourFood: function (food) {
-    const good = [ "Indian Cottage Cheese", "Chicken", "Mixed Noodles", "Good Fish", 
-    "Prawn" ]
+    const good = [ "Burgers", "Chicken", "Mixed Noodles", "Beef", 
+    "Prawns" ]
     const acceptable = JSON.parse(fs.readFileSync("acceptableFoods.json"))
     
     if (good.includes(food)) {

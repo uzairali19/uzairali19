@@ -5,12 +5,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
+  <img src="https://github.com/uzairali19/uzairali19/blob/main/robot.svg">
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raklaptudirm&theme=monokai&column=7&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=uzairali19&theme=monokai&column=7&no-frame=true">
   </a>
 </p>
 
@@ -62,24 +62,24 @@ const user = {
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&bg_color=0d1117&text_color=FFF" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&bg_color=0d1117&text_color=FFF" height="165">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact&bg_color=0d1117&text_color=FFF"  height="165">
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19&bg_color=0d1117&text_color=FFF">
   </a>
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=raklaptudirm&theme=react&background=0d1117">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=uzairali19&theme=react&background=0d1117">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=raklaptudirm&theme=react-dark">
+    <img src="https://activity-graph.herokuapp.com/graph?username=uzairali19&theme=react-dark">
   </a>
 </p>
 
@@ -130,5 +130,5 @@ const user = {
 <h4 align="center"> The widgets on my <code>README.md</code> are works of many contributers. Click on the widgets to use them yourself. </h4>
 
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=raklaptudirm.raklaptudirm&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=uzairali19.uzairali19&style=for-the-badge">
 <a>

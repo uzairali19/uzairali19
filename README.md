@@ -71,13 +71,9 @@ const user = {
 
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
-  <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=uzairali19&theme=react&background=0d1117">
-  </a>
   <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=uzairali19&theme=react-dark">
-  </a>
 </p>
 
 <h1 align="center"> Skills & Tools: </h1>

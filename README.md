@@ -61,19 +61,8 @@ const user = {
 <h1 align="center"> 📊 Stats: </h1>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&bg_color=0d1117&text_color=FFF" height="165">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <iframe width="600" height="165" src="https://ionicabizau.github.io/github-profile-languages/api.html?uzairali19" frameborder="0"></iframe>
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19&bg_color=0d1117&text_color=FFF">
-  </a>
-</p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">

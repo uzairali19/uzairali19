@@ -65,10 +65,12 @@ const user = {
 [![Uzair's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&theme=radical">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact">
-  <br/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19">
+<div>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&theme=radical">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact">
+</div>
+<br>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19">
 </p>
 
 <h1 align="center"> 🔥 Contributions: </h1>

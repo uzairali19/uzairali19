@@ -60,17 +60,17 @@ const user = {
 
 <h1 align="center"> 📊 Stats: </h1>
 
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Uzair's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
-<div>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&theme=radical">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact">
-</div>
-<br>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&bg_color=0d1117&text_color=FFF" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact&bg_color=0d1117&text_color=FFF"  height="165">
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19&bg_color=0d1117&text_color=FFF">
+  </a>
 </p>
 
 <h1 align="center"> 🔥 Contributions: </h1>

@@ -64,9 +64,7 @@ const user = {
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&bg_color=0d1117&text_color=FFF" height="165">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact&bg_color=0d1117&text_color=FFF"  height="165">
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19&bg_color=0d1117&text_color=FFF">

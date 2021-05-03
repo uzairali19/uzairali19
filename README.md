@@ -60,7 +60,7 @@ const user = {
 
 <h1 align="center"> 📊 Stats: </h1>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&langs_count=5&theme=tokyonight)]()
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

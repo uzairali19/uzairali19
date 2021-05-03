@@ -60,8 +60,10 @@ const user = {
 
 <h1 align="center"> 📊 Stats: </h1>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&langs_count=5&theme=tokyonight)]()
+![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Uzair's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">

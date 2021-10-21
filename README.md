@@ -72,7 +72,7 @@ const user = {
 <h1 align="center"> ⏯️ Spotify </h1>
 
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1og9kcn8rveuikvuvey3tbxdu&cover_image=true&theme=novatorem">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1og9kcn8rveuikvuvey3tbxdu&cover_image=true&theme=novatorem" width="700">
 </p>
 
 <h1 align="center"> 🔥 Contributions: </h1>

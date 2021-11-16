@@ -64,9 +64,9 @@ const user = {
     <img src="https://github-readme-stats.vercel.app/api?username=uzairali19&show_icons=true&bg_color=0d1117&text_color=fff" height="165">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact&bg_color=0d1117&text_color=fff"  height="165">
   <br>
-  <a href="https://github.com/uzairali19">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19&layout=compact&bg_color=0d1117&text_color=fff">
-  </a>
+  </p>
 </p>
 
 <h1 align="center"> ⏯️ Spotify </h1>

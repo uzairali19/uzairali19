@@ -65,7 +65,7 @@ const user = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairali19&layout=compact&bg_color=0d1117&text_color=fff"  height="165">
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=uzairali19&layout=compact&bg_color=0d1117&text_color=fff">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairali19&theme=radical">
   </p>
 </p>
 
